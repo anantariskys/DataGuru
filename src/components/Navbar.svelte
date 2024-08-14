@@ -15,7 +15,7 @@
     let currentUrl = '/'; 
 </script>
 
-<nav class="w-full py-3 fixed top-4 ">
+<nav class="w-full py-3 fixed top-0 ">
     <main class="container flex justify-between items-center">
         <img src={Logo} alt="Logo" class="aspect-auto" draggable="false">
         
